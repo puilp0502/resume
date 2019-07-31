@@ -49,6 +49,13 @@ Projects
 *(Used in 2016 Layer7 CTF, 2017 SECUINSIDE CTF, 2017 CHRISTMAS CTF)*  
 *Tech stack: PostgreSQL, Django, Nginx, AWS ELB*
 
+- Takeit [Homepage](http://www.nowtakeit.com/)  
+*Takeout Mobile Ordering Platform*  
+Tech Stack:  
+*(Backend) PostgreSQL, Django, Docker, AWS ECS, AWS ELB, AWS Lambda, Typescript*  
+*(Frontend) Typescript, React, Mobx*  
+*(Client) Kotlin*  
+
 Open source contributions
 ---------
 - react-native-material-design ([Pull Request](https://github.com/react-native-material-design/react-native-material-design/pull/81))  
